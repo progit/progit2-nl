@@ -2,13 +2,13 @@ name: Release on push to main
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ main ]
 
 jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
