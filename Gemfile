@@ -8,7 +8,7 @@ gem 'awesome_print', '1.9.2'
 
 gem 'asciidoctor-fb2', '0.7.0'
 gem 'asciidoctor-epub3', '2.1.3'
-gem 'asciidoctor-pdf', '2.3.18'
+gem 'asciidoctor-pdf', '2.3.19'
 
 gem 'coderay', '1.1.3'
 gem 'pygments.rb', '3.0.0'
