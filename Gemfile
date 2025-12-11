@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rake', '13.3.1'
 gem 'asciidoctor', '2.0.26'
 
-gem 'json', '2.17.1'
+gem 'json', '2.18.0'
 gem 'awesome_print', '1.9.2'
 
 gem 'asciidoctor-fb2', '0.8.0'
